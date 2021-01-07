@@ -10,7 +10,7 @@ Have more questions? See the [Sample Application FAQ](https://developer.commerce
 
 ## Prerequisites
 1. Download and install [Node.js v12](https://nodejs.org/en/download/).
-2. Install yarn: 
+2. Install yarn:    
 `npm install yarn -g`
 
 ## Setup
